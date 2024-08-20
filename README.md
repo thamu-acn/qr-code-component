@@ -24,7 +24,7 @@ This is a simple static webpage displaying a QR code image, text heading, and a 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://github.com/thamu-acn/qr-code-component.git)
 - [Live site URL](https://thamu-acn.github.io/qr-code-component/)
 
 ## My process
