@@ -20,7 +20,7 @@ This is a simple static webpage displaying a QR code image, text heading, and a 
 
 ### Screenshot
 
-./screenshot.jpg
+![](./screenshot.jpg)
 
 ### Links
 
